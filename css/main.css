@@ -261,7 +261,7 @@ html, body{
 }
 /*=============Estilos login*/
 .container-login{
-	width: 300px;
+	width: 336px;
 	box-sizing: border-box;
 	height: auto;
 	margin: 0;
@@ -273,9 +273,6 @@ html, body{
 	transform: translate(-50%, -50%);
 	border-radius: 5px;
 	color: #3F51B5;
-}
-.inicio-redes{
-	display: flex;
 }
 /*=============Estilos barra superior*/
 .navBar{
