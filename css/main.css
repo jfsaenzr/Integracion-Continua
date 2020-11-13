@@ -274,6 +274,9 @@ html, body{
 	border-radius: 5px;
 	color: #3F51B5;
 }
+.inicio-redes{
+	display: flex;
+}
 /*=============Estilos barra superior*/
 .navBar{
 	background-color: #3F51B5;
